@@ -3,172 +3,172 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://datalaria.github.io/post/startup/</loc>
+    <loc>http://localhost:1313/post/startup/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalaria.github.io/en/post/startup/"
+                href="http://localhost:1313/en/post/startup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://datalaria.github.io/post/startup/"
+                href="http://localhost:1313/post/startup/"
                 />
   </url>
   
   <url>
-    <loc>https://datalaria.github.io/page/contact/</loc>
+    <loc>http://localhost:1313/page/contact/</loc>
     <lastmod>2018-04-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalaria.github.io/en/page/contact/"
+                href="http://localhost:1313/en/page/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://datalaria.github.io/page/contact/"
+                href="http://localhost:1313/page/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://datalaria.github.io/page/about/</loc>
+    <loc>http://localhost:1313/page/about/</loc>
     <lastmod>2015-04-14T22:17:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalaria.github.io/en/page/about/"
+                href="http://localhost:1313/en/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://datalaria.github.io/page/about/"
+                href="http://localhost:1313/page/about/"
                 />
   </url>
   
   <url>
-    <loc>https://datalaria.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalaria.github.io/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://datalaria.github.io/"
+                href="http://localhost:1313/"
                 />
   </url>
   
   <url>
-    <loc>https://datalaria.github.io/tags/bienvenida/</loc>
+    <loc>http://localhost:1313/tags/bienvenida/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://datalaria.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalaria.github.io/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://datalaria.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://datalaria.github.io/tags/descriptiva/</loc>
+    <loc>http://localhost:1313/tags/descriptiva/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://datalaria.github.io/tags/estadistica/</loc>
+    <loc>http://localhost:1313/tags/estadistica/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://datalaria.github.io/categories/fundamentos/</loc>
+    <loc>http://localhost:1313/categories/fundamentos/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://datalaria.github.io/tags/general/</loc>
+    <loc>http://localhost:1313/tags/general/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalaria.github.io/en/tags/general/"
+                href="http://localhost:1313/en/tags/general/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://datalaria.github.io/tags/general/"
+                href="http://localhost:1313/tags/general/"
                 />
   </url>
   
   <url>
-    <loc>https://datalaria.github.io/tags/inicio/</loc>
+    <loc>http://localhost:1313/tags/inicio/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://datalaria.github.io/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
     <lastmod>2018-04-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalaria.github.io/en/page/"
+                href="http://localhost:1313/en/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://datalaria.github.io/page/"
+                href="http://localhost:1313/page/"
                 />
   </url>
   
   <url>
-    <loc>https://datalaria.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalaria.github.io/en/post/"
+                href="http://localhost:1313/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://datalaria.github.io/post/"
+                href="http://localhost:1313/post/"
                 />
   </url>
   
   <url>
-    <loc>https://datalaria.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://datalaria.github.io/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://datalaria.github.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
   
