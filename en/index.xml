@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://datalaria.github.io/en/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     <lastBuildDate>Wed, 28 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://datalaria.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Starting up</title>
-      <link>http://localhost:1313/en/post/startup/</link>
+      <link>https://datalaria.github.io/en/post/startup/</link>
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/en/post/startup/</guid>
+      <guid>https://datalaria.github.io/en/post/startup/</guid>
       <description>The purpose of this blog is to carry out a personal R &amp;amp; D work focused on the world of data science. Research focused on the study and learning in the data analysis, its tools and application areas and tools and, Development putting into practice the different concepts studied or analyzed with two goals:
  Learn and strengthen the knowledge Share such knowledge and references in case they might be of interest to anyone who could consult them.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/en/page/about/</link>
+      <link>https://datalaria.github.io/en/page/about/</link>
       <pubDate>Mon, 30 Apr 2018 22:17:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/en/page/about/</guid>
+      <guid>https://datalaria.github.io/en/page/about/</guid>
       <description>Hi to everyone!!, My name is Daniel, a telecommunications engineer with over 10 years of experience in Engineering and R &amp;amp; D projects within a multinational company in the sector. Passionate about any new technology, tool or system that becomes a reality the impossible, or at least, easier the difficult.
 For some time now, I have been embarking on the world of data analysis in its different uses and following the Lord Kevin’s maxim: &amp;ldquo;If you cannot measure it, you cannot improve it&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/en/page/contact/</link>
+      <link>https://datalaria.github.io/en/page/contact/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/en/page/contact/</guid>
+      <guid>https://datalaria.github.io/en/page/contact/</guid>
       <description>In case you have any remarks, consult or suggestion about the blog or any new subject you think interesting, please don&amp;rsquo;t hesitate to contact me through the following form:
 (function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id=&#39;typef_orm&#39;,b=&#39;https://s3-eu-west-1.amazonaws.com/share.typeform.com/&#39;;if(!gi.call(d,id)){js=ce.call(d,&#39;script&#39;);js.id=id;js.src=b+&#39;widget.js&#39;;q=gt.call(d,&#39;script&#39;)[0];q.parentNode.insertBefore(js,q)}})()</description>
     </item>
